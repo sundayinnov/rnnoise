@@ -1,0 +1,29 @@
+# 音频数据与模型权重
+*.raw
+*.f32
+*.sw
+*.wav
+*.pcm
+*.npy
+*.h5
+*.hdf5
+*.pth
+*.tar.gz
+
+# 编译产物
+*.o
+*.lo
+*.la
+*.so
+*.a
+.libs/
+.deps/
+*.exe
+rnnoise_demo
+extract_teacher
+
+# 临时文件和IDE配置
+*.log
+.vscode/
+.idea/
+*~
